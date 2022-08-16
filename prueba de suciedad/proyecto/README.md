@@ -9,6 +9,7 @@ un STAGE, se realizo commits y por ultimo de sincronizo el repositorio local con
 https://github.com/hacUPB/evaluacion-1-juanda22x.git
 Lista
 - Clonar tu repositorio de la evaluación: git clone https://github.com/hacUPB/evaluacion-1-juanda22x.git
-- Adicionar el archivo `wcat.c` al STAGE: git add wcat.c
+- Adicionar el archivo `wcat.c` al STAGE: git init
+ git add wcat.c
 - Realizar un commit: git commit -m "modicacion wcat.c"
 - Sincronizar con el repositorio remoto: git push
